@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.cdn.webflow.com	TRUE	/	FALSE	1999999999	_cfuvid	An5RIaqQnp.IYqPxfeiVlyb8SAUjcOio1HHJZO4jra0-1735095925433-0.0.1.1-604800000
+www.whoisricky.lol	TRUE	/	FALSE	1999999999	SameSite	None
+
